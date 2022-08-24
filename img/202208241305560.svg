@@ -1,0 +1,28 @@
+<svg width="192.00000000000003" height="80" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+  </filter>
+  <linearGradient spreadMethod="pad" y2="0.09454" x2="1" y1="0" x1="0" id="svg_7">
+   <stop offset="0" stop-color="#ffa502" stop-opacity="0.99609"/>
+   <stop offset="0.23047" stop-color="#ff7f50" stop-opacity="0.99219"/>
+   <stop offset="0.44531" stop-color="#ff4757" stop-opacity="0.98828"/>
+   <stop offset="0.62109" stop-color="#7bed9f" stop-opacity="0.99219"/>
+   <stop stop-color="#2ed573" stop-opacity="0.99219" offset="0.73047"/>
+   <stop offset="0.8125" stop-color="#1e90ff" stop-opacity="0.99219"/>
+   <stop offset="0.93359" stop-opacity="0.98828" stop-color="#3742fa"/>
+   <stop offset="1" stop-color="#5352ed" stop-opacity="0.99609"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>
+   <RELIN-HC>
+    <RELIN-HIGHLIGHT data-type="level" data-word="Layer" class="relingo-underline-annotated relinlevel">
+     <RELIN-ORIGIN>Layer</RELIN-ORIGIN>
+     <RELIN-TARGET>(层)</RELIN-TARGET>
+    </RELIN-HIGHLIGHT>
+   </RELIN-HC>(层)(层)1</title>
+  <text transform="matrix(1.43832 0 0 1.59263 -3.97352 -35.2256)" stroke="#000" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Yrsa'" font-size="24" id="svg_1" y="54.37614" x="7.17285" fill="url(#svg_7)" stroke-width="0" filter="url(#svg_1_blur)" font-style="normal">SNDSHUN</text>
+  <text transform="matrix(1 0 0 1 0 0)" x="0" fill="#000000" stroke="#000" stroke-width="0" y="19.68747" id="svg_8" font-size="27" font-family="'Yrsa'" text-anchor="start" xml:space="preserve"/>
+ </g>
+</svg>
